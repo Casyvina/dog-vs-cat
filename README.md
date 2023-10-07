@@ -9,3 +9,5 @@ The project is divided into three parts:
 2. building our own model for image classification.
 3. build a web app with flask to mount the prediction model.
 4. we deploy the flask project on heroku through github.
+
+![dog-test](dog-predict.png)
